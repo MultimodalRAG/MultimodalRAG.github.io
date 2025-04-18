@@ -1,14 +1,17 @@
-# Nerfies
+# Multimodal RAG Survey
 
-This is the repository that contains source code for the [Nerfies website](https://nerfies.github.io).
+This is the repository that contains source code for the [Multimodal RAG Survey website](https://multimodalrag.github.io/).
 
-If you find Nerfies useful for your work please cite:
+If you find this work useful for your work please cite:
 ```
-@article{park2021nerfies
-  author    = {Park, Keunhong and Sinha, Utkarsh and Barron, Jonathan T. and Bouaziz, Sofien and Goldman, Dan B and Seitz, Steven M. and Martin-Brualla, Ricardo},
-  title     = {Nerfies: Deformable Neural Radiance Fields},
-  journal   = {ICCV},
-  year      = {2021},
+@misc{abootorabi2025askmodalitycomprehensivesurvey,
+                title={Ask in Any Modality: A Comprehensive Survey on Multimodal Retrieval-Augmented Generation}, 
+                author={Mohammad Mahdi Abootorabi and Amirhosein Zobeiri and Mahdi Dehghani and Mohammadali Mohammadkhani and Bardia Mohammadi and Omid Ghahroodi and Mahdieh Soleymani Baghshah and Ehsaneddin Asgari},
+                year={2025},
+                eprint={2502.08826},
+                archivePrefix={arXiv},
+                primaryClass={cs.CL},
+                url={https://arxiv.org/abs/2502.08826},
 }
 ```
 
